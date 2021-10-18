@@ -1,0 +1,13 @@
+{
+  "name": "flying-fonts",
+  "description": "Flying Fonts",
+  "dependencies": {},
+  "devDependencies": {
+    "@prettier/plugin-php": "^0.16.1",
+    "prettier": "^2.2.1"
+  },
+  "scripts": {
+    "format": "prettier **/**.php --write",
+    "generate": "cd .. && zip -r flying-fonts.zip flying-fonts -x '*node_modules*' '*.git*'"
+  }
+}

@@ -1,7 +1,6 @@
 === Flying Fonts by FlyingPress ===
 
 Contributors: gijo, flyingpress
-Donate link: https://www.buymeacoffee.com/gijovarghese
 Tags: fonts, system fonts, websafe fonts, google fonts
 Requires at least: 4.5
 Tested up to: 5.8
@@ -22,7 +21,7 @@ Remove Google Fonts and Use System Fonts
 - No need to preload fonts
 
 ## Support
-- [Official Support Forum](https://wordpress.org/support/plugin/flying-analytics/)
+- [Official Support Forum](https://wordpress.org/support/plugin/flying-fonts/)
 - [Facebook Community](https://www.facebook.com/groups/wpspeedmatters)
 
 ## More Optimization Plugins
@@ -30,7 +29,7 @@ Remove Google Fonts and Use System Fonts
 - [Flying Pages](https://wordpress.org/plugins/flying-pages/)
 - [Flying Images](https://wordpress.org/plugins/nazy-load/)
 - [Flying Scripts](https://wordpress.org/plugins/flying-scripts/)
-- [Flying Fonts](https://wordpress.org/plugins/flying-analytics/)
+- [Flying Analytics](https://wordpress.org/plugins/flying-analytics/)
 
 **Note:** There are no settings to configure.
 
